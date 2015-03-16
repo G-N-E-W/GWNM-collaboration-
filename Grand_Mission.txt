@@ -1,0 +1,5 @@
+This project is a joint collaboration between myself(Garret Wiley) and Nick Murray 
+to implement the final project of EECS 183. The project will be written in HTML with 
+additional files for functionality. 
+
+All questions can be sent to notReal@mailinator.com 
